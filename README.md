@@ -13,7 +13,7 @@ Add more general information about project. What the purpose of the project is? 
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
-* Ruby - version 2.7.0rails -v
+* Ruby - version 2.7.0
 * Rails - version 5.2.4.1
 
 
