@@ -1,14 +1,9 @@
 # Project Name
-> Here goes your awesome project description!
+> First Ruby Application
 
 ## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
+* [spis_sprzet](#spis_sprzet)
+* [spis_sim](#spis_sim)
 * [Contact](#contact)
 
 ## General info
@@ -18,9 +13,12 @@ Add more general information about project. What the purpose of the project is? 
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Ruby - version 2.7.0rails -v
+* Rails - version 5.2.4.1
+
+
+## How to get HEomePage
+www.
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
