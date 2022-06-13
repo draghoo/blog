@@ -15,10 +15,13 @@ Add more general information about project. What the purpose of the project is? 
 ## Technologies
 * Ruby - version 2.7.0
 * Rails - version 5.2.4.1
+* HTML/PHP
+* Joomla
+* Wordpress
 
 
 ## How to get HEomePage
-www.
+www.netpo.itl.pl
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
